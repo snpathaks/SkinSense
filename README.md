@@ -6,7 +6,7 @@ SkinSense is an intelligent web-based platform that leverages AI to detect skin 
 
 ## ✅ What We've Completed
 
-### ✅ Frontend UI Pages
+### ✅ Frontend UI Pages:
 - `index.html` – Welcome landing page (responsive and animated)
 - `login.html` – Login page for users/doctors
 - `register.html` – Registration form
