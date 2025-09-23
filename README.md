@@ -1,4 +1,4 @@
-# SkinSense – AI-Based Skin Disease Detection System
+# SkinSense – AI-Based Skin Disease Detection System:
 
 SkinSense is an intelligent web-based platform that leverages AI to detect skin diseases from uploaded images. It provides treatment tips, doctor appointment booking, chat assistance, and downloadable reports—all in a modern, user-friendly interface.
 
